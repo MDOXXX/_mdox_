@@ -8,7 +8,7 @@ Here is the only rule: __**Have fun!**__
 
 ## Table of content
 
-* [_mdox_ project](#mdox_pro)
+* [\_mdox\_ project](#mdox_pro)
  	* [build](#mdox_pro_bui)
  	* [build](#mdox_pro_sta)
 * [Documentation](#mdox_doc)
