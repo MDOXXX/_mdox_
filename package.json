@@ -1,43 +1,57 @@
 {
-  "name": "mdox",
-  "version": "1.0.0",
-  "description": "MDOX - ES6, React, ... - sandbox.",
-  "main": "index.js",
-  "license": "GPL-3.0",
-  "author": "Mario Donsimoni",
-  "scripts": {
-    "build": "react-scripts build",
-    "start": "node src/app/index.js",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MDOXXX/_mdox_.git"
-  },
-  "dependencies": {
-    "history": "^4.5.1",
-    "http-server": "^0.9.0",
-    "nodemon": "^1.11.0",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-router": "^3.0.2"
-  },
-  "bugs": {
-    "url": "https://github.com/MDOXXX/_mdox_/issues"
-  },
-  "homepage": "https://github.com/MDOXXX/_mdox_#readme",
-  "devDependencies": {
-    "babel-preset-es2015": "^6.22.0",
-    "babel-preset-react": "^6.22.0"
-  },
-  "keywords": [
-    "mdox"
-  ],
-  "babel": {
-    "plugins": [
-      "transform-react-jsx"
-    ],
-    "ignore": []
-  }
+	"name": "mdox",
+	"version": "1.0.0",
+	"description": "MDOX - JS rulez!",
+	"main": "index.js",
+	"license": "GPL-3.0",
+	"author": "Mario Donsimoni",
+	"scripts": {
+		"build": "react-scripts build",
+		"start": "react-scripts start",
+		"test": "react-scripts test --env=jsdom",
+		"eject": "react-scripts eject"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MDOXXX/_mdox_.git"
+	},
+	"dependencies": {
+		"babel": "^6.5.2",
+		"history": "^4.5.1",
+		"http-server": "^0.9.0",
+		"nodemon": "^1.11.0",
+		"react": "^15.4.2",
+		"react-dom": "^15.4.2",
+		"react-router": "^3.0.2",
+		"react-tools": "^0.13.3",
+		"react-transform": "0.0.3"
+	},
+	"bugs": {
+		"url": "https://github.com/MDOXXX/_mdox_/issues"
+	},
+	"homepage": "https://github.com/MDOXXX/_mdox_#readme",
+	"devDependencies": {
+		"babel-preset-es2015": "^6.22.0",
+		"babel-preset-react": "^6.22.0"
+	},
+	"keywords": [
+		"mdox"
+	],
+	"babel": {
+		"presets": [
+			"react",
+			"es2017"
+		],
+		"plugins": [
+			[
+				"react-transform",
+				{
+					"transforms": [{
+						"transform": "react-transform-catch-errors"
+					}]
+				}
+			]
+		],
+		"ignore": []
+	}
 }
