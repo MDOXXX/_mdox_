@@ -13,11 +13,11 @@ npm start
 
 ## Documentation
 
-Commig soon :)
+Comig soon :)
 
 ## MDOX Project
 
-Commig soon :)
+Comig soon :)
 
 ## Dev env
 
@@ -37,9 +37,11 @@ Atom plugins:
 
 - [ ] Run the app :)
 - [ ] Babel build
-- [ ] JS documentation
+- [ ] JS documentation + Readme MDOX JS documentation
 - [ ] Unit tests
 - [ ] MDOX library (instead of lodash :))
-- [ ] Readme MDOX explanations
+- [ ] Readme MDOX project
+- [ ] Redux
+- [ ] GraphQL
 
 __** Because I believe in a world freedom, JS rulez! **__
