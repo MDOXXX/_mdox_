@@ -78,7 +78,6 @@ Atom plugins:
 - [ ] GraphQL - http://graphql.org/
 - [ ] Logging - https://www.npmjs.com/browse/keyword/logging
 - [ ] NO SQL DB - https://www.npmjs.com/package/nosql
-
 - [ ] less files
 - [x] console.log into jsx files: it doesn't work
 - [ ] React vs Babel build and run
