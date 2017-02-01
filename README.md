@@ -20,18 +20,18 @@ npm install
 npm start
 ```
 
-## Documentation
 <a id="mdox_doc"></a>
+## Documentation
 
 Coming soon :)
 
-## MDOX Project
 <a id="mdox_pro"></a>
+## MDOX Project
 
 Coming soon :)
 
-## Environment
 <a id="mdox_env"></a>
+## Environment
 
 IDE: [Atom](https://atom.io/)
 
@@ -41,8 +41,8 @@ Atom plugins:
 * https://atom.io/packages/atom-react-native-autocomplete
 * https://atom.io/packages/platformio-ide-terminal
 
-## Resources
 <a id="mdox_res"></a>
+## Resources
 
 * https://developers.google.com/v8/
 * https://nodejs.org/
@@ -54,8 +54,8 @@ Atom plugins:
 * react-router
 * history
 
-## Task list
 <a id="mdox_tas"></a>
+## Task list
 
 - [ ] Run the app :)
 - [ ] MDOX library (instead of lodash :))
@@ -71,8 +71,8 @@ Atom plugins:
 - [ ] Logging - https://www.npmjs.com/browse/keyword/logging
 - [ ] NO SQL DB - https://www.npmjs.com/package/nosql
 
-## To test
 <a id="mdox_tes"></a>
+## To test
 
 - [x] console.log into jsx files: it doesn't work
 - [ ] import \{foo\} from foo versus import foo from 'foo'
