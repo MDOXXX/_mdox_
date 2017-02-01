@@ -10,7 +10,7 @@ Here is the only rule: __**Have fun!**__
 
 * [\_mdox\_ project](#mdox_pro)
  	* [build](#mdox_pro_bui)
- 	* [build](#mdox_pro_sta)
+ 	* [start](#mdox_pro_sta)
 * [Documentation](#mdox_doc)
 * [Environment](#mdox_env)
 * [Resources](#mdox_res)
