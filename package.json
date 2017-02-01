@@ -16,10 +16,12 @@
     "url": "git+https://github.com/MDOXXX/_mdox_.git"
   },
   "dependencies": {
+    "history": "^4.5.1",
     "http-server": "^0.9.0",
     "nodemon": "^1.11.0",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "react-router": "^3.0.2"
   },
   "bugs": {
     "url": "https://github.com/MDOXXX/_mdox_/issues"

@@ -25,23 +25,33 @@ IDE: [Atom](https://atom.io/)
 
 Atom plugins:
 
-* [Atom Beautify](https://atom.io/packages/atom-beautify) - atom-beautify
-* [Atom React Native Autocomplete](https://atom.io/packages/atom-react-native-autocomplete) - atom-react-native-autocomplete
-* [Platformio Ide Terminal](https://atom.io/packages/platformio-ide-terminal) - platformio-ide-terminal
+* https://atom.io/packages/atom-beautify
+* https://atom.io/packages/atom-react-native-autocomplete
+* https://atom.io/packages/platformio-ide-terminal
 
 ## Resources
 
+* https://developers.google.com/v8/
+* https://nodejs.org/
+* https://facebook.github.io/react/
+* http://babeljs.io
 * https://guides.github.com/features/mastering-markdown/
+* react-dom
+* react-router
+* history
 
 ## Task list
 
 - [ ] Run the app :)
-- [ ] Babel build
+- [ ] React - https://facebook.github.io/react/
+- [ ] Babel - http://babeljs.io
+- [ ] MDOX library (instead of lodash :))
 - [ ] JS documentation + Readme MDOX JS documentation
 - [ ] Unit tests
-- [ ] MDOX library (instead of lodash :))
 - [ ] Readme MDOX project
-- [ ] Redux
-- [ ] GraphQL
+- [ ] Redux - http://redux.js.org/
+- [ ] GraphQL - http://graphql.org/
+- [ ] Logging - https://www.npmjs.com/browse/keyword/logging
+- [ ] NO SQL DB - https://www.npmjs.com/package/nosql
 
 __** Because I believe in a world freedom, JS rulez! **__
