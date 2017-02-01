@@ -65,23 +65,24 @@ Atom plugins:
 ## Tasks <a id="mdox_tas"></a>
 
 - [x] Run the app :)
-- [ ] MDOX library (instead of lodash :))
+- [x] \_mdox\_ const
 - [ ] JS documentation + Readme MDOX JS documentation
 - [x] Readme MDOX project
 - [ ] React - https://facebook.github.io/react/
 - [ ] Babel - http://babeljs.io
-- [ ] react-router -
+- [ ] react-router - https://github.com/ReactTraining/react-router
 - [ ] Unit tests - https://mochajs.org/
 - [ ] Redux - http://redux.js.org/
-- [ ] history -
+- [ ] Helmet - https://github.com/helmetjs/helmet
+- [ ] history - https://www.npmjs.com/package/history
 - [ ] eslint - http://eslint.org/
 - [ ] GraphQL - http://graphql.org/
 - [ ] Logging - https://www.npmjs.com/browse/keyword/logging
 - [ ] NO SQL DB - https://www.npmjs.com/package/nosql
 - [ ] less files
-- [x] console.log into jsx files: it doesn't work
+- [ ] console.log is not working...
 - [ ] React vs Babel build and run
-- [ ] import \{foo\} from foo versus import foo from 'foo'
+- [x] import \{foo\} from foo versus import foo from 'foo': import {\_mdox\_} from '\_mdox\_' doesn't wotk
 - [ ] super and this.setState into the constructor?
 - [ ] propTypes and getDefaultProps() into extends React.Component?
 - [ ] super() into all functions / lambdas
