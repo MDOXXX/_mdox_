@@ -28,7 +28,7 @@ npm run build
 ```
 
 Starts \_mdox\_ app and open the web browser:
-### run <a id="mdox_pro_sta"></a>
+### start <a id="mdox_pro_sta"></a>
 ```
 npm start
 ```
