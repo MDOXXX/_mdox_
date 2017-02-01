@@ -1,6 +1,9 @@
 # ---=== MDOX ===---
 
-## JS Rulez! =)
+## Welcome, JS rulez! =)
+
+This project aims to play with JavaScript (which is a language I love since years), Node, React and other stuff...
+Here is the only rule: __**Have fun!**__
 
 Run __\_mdox \___:
 ```
@@ -12,7 +15,7 @@ npm start
 
 Commig soon :)
 
-## Packaging
+## MDOX Project
 
 Commig soon :)
 
@@ -30,12 +33,13 @@ Atom plugins:
 
 * https://guides.github.com/features/mastering-markdown/
 
-
 ## Task list
 
-- [ ] babel build
+- [ ] Run the app :)
+- [ ] Babel build
 - [ ] JS documentation
 - [ ] Unit tests
 - [ ] MDOX library (instead of lodash :))
+- [ ] Readme MDOX explanations
 
 __** Because I believe in a world freedom, JS rulez! **__
