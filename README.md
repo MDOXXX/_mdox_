@@ -21,9 +21,10 @@ Commig soon :)
 IDE: [Atom](https://atom.io/)
 
 Atom plugins:
-	* [Atom Beautify - atom-beautify](https://atom.io/packages/atom-beautify)
-	* [Atom React Native Autocomplete - atom-react-native-autocomplete](https://atom.io/packages/atom-react-native-autocomplete)
-	* [Platformio Ide Terminal - platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
+
+	* [Atom Beautify](https://atom.io/packages/atom-beautify) - atom-beautify
+	* [Atom React Native Autocomplete](https://atom.io/packages/atom-react-native-autocomplete) - atom-react-native-autocomplete
+	* [Platformio Ide Terminal](https://atom.io/packages/platformio-ide-terminal) - platformio-ide-terminal
 
 ## Resources
 
