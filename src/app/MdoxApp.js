@@ -1,12 +1,10 @@
 import React, {Component} from 'react';
 
-import './resources/App.css';
-
 class MdoxApp extends Component {
 	render() {
 		return (
-			<div className="mdox-container">
-				yeah baby
+			<div id="mdox-container">
+				<h1>_mdox_ JS rulez!</h1>
 			</div>
 		);
 	}
